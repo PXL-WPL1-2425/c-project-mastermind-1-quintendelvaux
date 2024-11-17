@@ -7,10 +7,38 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ComboBox HorizontalAlignment="Left" Height="29" Margin="134,71,0,0" VerticalAlignment="Top" Width="133"/>
-        <ComboBox HorizontalAlignment="Left" Height="29" Margin="267,71,0,0" VerticalAlignment="Top" Width="133"/>
-        <ComboBox HorizontalAlignment="Left" Height="29" Margin="393,71,0,0" VerticalAlignment="Top" Width="133"/>
-        <ComboBox HorizontalAlignment="Left" Height="29" Margin="526,71,0,0" VerticalAlignment="Top" Width="133"/>
+        <ComboBox HorizontalAlignment="Left" Height="29" Margin="131,71,0,0" VerticalAlignment="Top" Width="133">
+            <ComboBoxItem Content="Red"/>
+            <ComboBoxItem Content="Yellow"/>
+            <ComboBoxItem Content="Orange"/>
+            <ComboBoxItem Content="White"/>
+            <ComboBoxItem Content="Green"/>
+            <ComboBoxItem Content="Blue"/>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Height="29" Margin="264,71,0,0" VerticalAlignment="Top" Width="133">
+            <ComboBoxItem Content="Red"/>
+            <ComboBoxItem Content="Yellow"/>
+            <ComboBoxItem Content="Orange"/>
+            <ComboBoxItem Content="White"/>
+            <ComboBoxItem Content="Green"/>
+            <ComboBoxItem Content="Blue"/>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Height="29" Margin="393,71,0,0" VerticalAlignment="Top" Width="133">
+            <ComboBoxItem Content="Red"/>
+            <ComboBoxItem Content="Yellow"/>
+            <ComboBoxItem Content="Orange"/>
+            <ComboBoxItem Content="White"/>
+            <ComboBoxItem Content="Green"/>
+            <ComboBoxItem Content="Blue"/>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Height="29" Margin="526,71,0,0" VerticalAlignment="Top" Width="133">
+            <ComboBoxItem Content="Red"/>
+            <ComboBoxItem Content="Yellow"/>
+            <ComboBoxItem Content="Orange"/>
+            <ComboBoxItem Content="White"/>
+            <ComboBoxItem Content="Green"/>
+            <ComboBoxItem Content="Blue"/>
+        </ComboBox>
         <Button Content="Valideren" HorizontalAlignment="Left" Height="26" Margin="334,237,0,0" VerticalAlignment="Top" Width="126" />
 
     </Grid>

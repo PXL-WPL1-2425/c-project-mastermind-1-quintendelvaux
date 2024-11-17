@@ -193,7 +193,7 @@ namespace MasterMind
                         break;
 
                 }
-
+                
             }
 
            Title = $"{color01}, {color02}, {color03} and {color04}";
