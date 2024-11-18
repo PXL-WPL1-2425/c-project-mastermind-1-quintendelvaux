@@ -28,7 +28,6 @@ namespace MasterMind
             //"Red", "Yellow", "Orange", "White", "Green", "Blue"
             Random randomColor = new Random();
             int colorNumber;
-       
             string color01 = "";
             string color02 = "";
             string color03 = "";
